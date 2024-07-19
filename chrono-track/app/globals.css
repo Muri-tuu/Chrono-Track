@@ -16,6 +16,22 @@
   }
 }
 
+.poppins {
+  font-family: var(--font-poppins);
+}
+
+.poppins-regular {
+  font-weight: 400;
+}
+
+.poppins-light {
+  font-weight: 300;
+}
+
+.poppins-thin {
+  font-weight: 100;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
